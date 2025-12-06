@@ -1,15 +1,8 @@
-# These are supported funding model platforms
 
-github: Uzo nacho
-patreon: # Replace with a single Patreon username
-open_collective: # 
-ko_fi: # Replace with a single Ko-fi username
-tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: #uzonacho
-issuehunt: # Replace with a single IssueHunt username
-lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
-polar: # Replace with a single Polar username
-buy_me_a_coffee: # Replace with a single Buy Me a Coffee username
-thanks_dev: from uzo nacho
-custom: 
+
+github: Uzo nacho projects
+projects: games 
+
+funding :1513688127 access bank 
+thanks_dev: from uzo nacho, love to see it
+
